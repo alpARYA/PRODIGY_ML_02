@@ -10,11 +10,11 @@ In this project, we use K-means clustering to group customers of a retail store 
 # Dataset
 The dataset used in this project can be found on Kaggle: Customer Segmentation Dataset. It contains the following columns:
 
-CustomerID: Unique identifier for each customer
-Gender: Gender of the customer
-Age: Age of the customer
-Annual Income (k$): Annual income of the customer in thousands of dollars
-Spending Score (1-100): Score assigned by the store based on customer behavior and spending
+- CustomerID: Unique identifier for each customer
+- Gender: Gender of the customer
+- Age: Age of the customer
+- Annual Income (k$): Annual income of the customer in thousands of dollars
+- Spending Score (1-100): Score assigned by the store based on customer behavior and spending
 # Project Steps
 1. Data Preprocessing:
 
