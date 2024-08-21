@@ -24,9 +24,9 @@ Spending Score (1-100): Score assigned by the store based on customer behavior a
 2. Finding the Optimal Number of Clusters:
 
 - Use the Elbow Method to determine the optimal number of clusters by plotting the inertia for different values of k.
-Training the K-means Model:
+3. Training the K-means Model:
 
-3. Train the K-means model using the optimal number of clusters determined from the Elbow Method.
+- Train the K-means model using the optimal number of clusters determined from the Elbow Method.
 - Assign each customer to a cluster.
 4. Model Evaluation:
 
